@@ -1,2 +1,4 @@
 *DS_*
-/assets/img/
+**./assets/**
+**/img
+*.svg
