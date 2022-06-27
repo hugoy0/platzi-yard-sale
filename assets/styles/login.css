@@ -13,6 +13,13 @@
 
 body { margin: 0; }
 
+.logo {
+    width: 150px;
+    margin-bottom: 48px;
+    justify-self: center;
+    display: none;
+}
+
 .form a {
     color: var(--hospital-green);
     font-size: var(--sm);

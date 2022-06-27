@@ -26,13 +26,6 @@ body { font-family: 'Quicksand', sans-serif; }
     width: 300px;
 }
 
-.logo {
-    width: 150px;
-    margin-bottom: 48px;
-    justify-self: center;
-    display: none;
-}
-
 .title{
     font-size: var(--lg);
     margin-bottom: 35px;
@@ -58,11 +51,4 @@ body { font-family: 'Quicksand', sans-serif; }
     grid-template-rows: auto 1fr auto;
     width: 300px;
     justify-items: center;
-}
-
-.logo {
-    width: 150px;
-    margin-bottom: 48px;
-    justify-self: center;
-    display: none;
 }
